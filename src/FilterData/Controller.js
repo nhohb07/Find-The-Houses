@@ -1,5 +1,7 @@
+const _ = require('lodash');
 const http = require('http');
 const request = require("request");
+const firebaseAdmin = require('../firebase');
 
 class Controller {
   constructor(filter = null) {
@@ -47,8 +49,16 @@ class Controller {
           this.responseData = body;
           callback();
         }
+
+        console.log(error, body)
       }
     );
+  }
+
+  insertToDB() {
+    _.forEach(this.filterResult, item => {
+      firebaseAdmin.child(item.id).set(item);
+    });
   }
 }
 

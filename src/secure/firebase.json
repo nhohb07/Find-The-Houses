@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "find-the-houses",
+  "private_key_id": "c2996c65ac8109b1c14eaa67a2172f10801a008e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyc2KSdAPFEToM\nee4/surB6utaA3YCbJRfpfVKZJGdPSdNFvJFLEtpyuwwBScWKM2kWuv+h+KKGXbp\nuEEx5rpnDNM6mQDFuw/UJgK/AdXJKZGrVmeP6BS+A3FyiEtIEteBLqwkt+FuS8yB\nEWYKz5kbt75TzK6vGLQGk/FYeZUIvCBek6hcZrdCaYaVg816Cd704w62Fwchacao\nWHHF0JTVFR1qmTdytVz3Eh0NhBf9cgldzLuTvmaArbZgfJ5f49t94mFgY70QhUiL\nOh+sVyZhq3SQ9He2EPzgpKRNvgI4Jw3ThuNosRfD8ORSV1ni9IVpXm9r6NXGN7UJ\nXGX/ivnHAgMBAAECggEAAULhHRMTPViHbIDAHYfwmNMSofdvfuNKX5KwtSHlol+r\nedc1RyZIMis4/od9/m4ZzGH7VDhppXttZIfk2t48NKMM9/EOf4p4hitVAaL/SJ8Y\nMUafD/YeXDY+0Wxp+8xssYELvm0X4f7iWlct8Kc4kc8upsqSwX7cAHmAAmJ5mmIw\nju9amXbMjJbO7Ucv4StA30FJVokJdf4lqyvYcXLubPAOSoalU0n3il2sFBQ4h8dG\nsbi4eYokwhAoppwIts2va57c84HuGZOZhMYCWRgWRgGtbr2ubwjI4DUys5+IroSi\ngz1saTO3GFf6pkMgViI3e05ZpPGbPg04oqCLCvS6AQKBgQD067p/fLa7j5lQkzS6\n/HuEcv7FcygfYdFErZSnEoi7WqSDo7rBpJDs4LcDaaat9brto9Hl6810DDbE5b99\nJ3eMfP/y4BTAC6C+1qkhyTySpf9c47CvdFm2tMdXO+kAU1/N1m6bppr99KsZldCH\n6u/RbG7nw25emy3E5ANdhIn6BwKBgQC6heirvN6fL9o0ooWzO7bJbM1owIPouhCD\n51uo0wS2nxe225Lvpr2fp5emKFeM9bHDMFrkUu3onRO65Hlp7pX3nzxQAnluCbOE\norMUfWRSdyra30Y6YDapGs0aNi21mHHKAY0y2lWa4el/qPmqzl9VaZMKCbi0X2W+\ntbgOECISQQKBgHWkMK2Bwufufq7UNlTGZ7Hj5noC6TfBrVn2oltprKGJVVIht9fB\naxdMjLun6LbQPFxe/rgYflQKddg3nrXH2kVx2SLY/T6Nl0VzKEQhO+YYs8LzXu+3\nzEvVI5bEIRPV+EOPhwteiD4JYpHkgwh2EYEfO1o5Ze8tTFuxReiKfBfLAoGANrxV\nKxChw9UnE4sd8Rr06Ock4DiefQ0dC5g5LbG/EFhffSmyVOF5hACKYBg2mQcAw2bN\nRXOQnVJ7F700ZAG/wIraCCCxwbjXFXUpWDnz1r9htBkRYtAZOkbDKY38m+3Adqc9\n6E5qEKl6/Bt6KMWm9Emm/KsdqNDV6sEo4feaCAECgYAB40khO9HXR0u3MmLR7s8z\nkPT7O0O52xPpt1hY/8IThTnYnk5vtGzmHBdSP91wQLLDGOx8bgegokWrWlnSSj0l\nU0QeuZI+JlcRXJtGY4WrOPmG9Qw3AbR8Ftn9DIcEVoqLwTKuyKZkiaLgLMUFirZK\nySbjUooAW7wwu+EfpssD1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-mxmyd@find-the-houses.iam.gserviceaccount.com",
+  "client_id": "104067050310379946590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mxmyd%40find-the-houses.iam.gserviceaccount.com"
+}

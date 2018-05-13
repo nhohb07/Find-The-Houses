@@ -1,12 +1,15 @@
 const _ = require('lodash');
-const cheerio = require('cheerio')
+const moment = require('moment');
+const cheerio = require('cheerio');
+var SHA256 = require("crypto-js/sha256");
+
 const Controller = require('./Controller');
 
 class AloNhaDatController extends Controller {
   constructor(filter = null) {
     super(filter);
 
-    this.domain = 'alonhadat.com.vn';
+    this.domain = 'https://alonhadat.com.vn';
     this.apiEndPoint = 'https://alonhadat.com.vn/handler/Handler.ashx?command=14';
     this.method = 'post';
 
@@ -63,34 +66,51 @@ class AloNhaDatController extends Controller {
     filter += `&square1=${this.filter.acreageFrom}`;
     filter += `&square2=${this.filter.acreageTo}`;
 
-    console.log(filter)
     return filter;
   }
 
   parseResult() {
     const $ = cheerio.load(this.responseData);
+    const contentItem = $('.content-item');
 
-    const text = $('.text');
-
-    _.forEach(text, item => {
+    _.forEach(contentItem, item => {
       const title = $(item).find('.ct_title>a').text();
-      const date = $(item).find('.ct_date').text();
-      const dimension = $(item).find('.ct_kt').clone().children().remove().end().text()
-      const acreage = $(item).find('.ct_dt').clone().children().remove().end().text()
-      const direction = $(item).find('.ct_direct').clone().children().remove().end().text()
-      const price = $(item).find('.ct_price').clone().children().remove().end().text()
-      const district = $(item).find('.ct_dis').clone().children().remove().end().text()
+      const image = `${this.domain}${$(item).find('.thumbnail>a>img').attr('src')}`;
+      const link = `${this.domain}${$(item).find('.thumbnail>a').attr('href')}`;
+      const dimension = $(item).find('.ct_kt').clone().children().remove().end().text().trim();
+      const acreage = $(item).find('.ct_dt').clone().children().remove().end().text().trim();
+      const direction = $(item).find('.ct_direct').clone().children().remove().end().text().trim();
+      const price = $(item).find('.ct_price').clone().children().remove().end().text().trim();
+      const district = $(item).find('.ct_dis').clone().children().remove().end().text().trim();
 
-      console.log({
+      let date = $(item).find('.ct_date').text();
+      if (date === 'Hôm nay') {
+        date = new Date();
+      } else if (date === 'Hôm qua') {
+        date = moment().subtract(1, 'day').format('DD/MM/YYYY');
+      }
+      date = moment(date, 'DD/MM/YYYY').format('DD/MM/YYYY');
+
+      const dataItem = {
+        domain: this.domain.replace('https://', ''),
         title,
-        date,
+        image,
+        link,
         dimension,
         acreage,
         direction,
         price,
-        district
-      });
-    })
+        district,
+        date,
+        timestamp: moment(date, 'DD/MM/YYYY').unix(),
+      };
+
+      dataItem.id = SHA256(dataItem.link).toString();
+
+      this.filterResult.push(dataItem);
+    });
+
+    this.filterResult = _.orderBy(this.filterResult, ['timestamp'], ['desc']);
   }
 }
 

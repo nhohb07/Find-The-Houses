@@ -1,9 +1,11 @@
 const _ = require('lodash');
 
 const AloNhaDatController = require('./AloNhaDatController');
+const ChoTotController = require('./ChoTotController');
 
 const sources = [
-  'AloNhaDat'
+  // 'AloNhaDat',
+  'ChoTot',
 ];
 
 const start = (filter) => {
@@ -12,7 +14,8 @@ const start = (filter) => {
     controller = new controller(filter);
 
     controller.getList(() => {
-      controller.parseResult();
+      // controller.parseResult();
+      // controller.insertToDB();
     });
   })
 };
