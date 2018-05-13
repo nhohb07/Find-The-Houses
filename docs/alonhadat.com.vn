@@ -19,4 +19,508 @@ direct: 8
 page: 1
 
 
-curl 'https://alonhadat.com.vn/handler/Handler.ashx?command=14' -H 'cookie: ignoredmember=; _ga=GA1.3.301399731.1499149833; ASP.NET_SessionId=qbshcu45ncsxct45oaue3i55; _gid=GA1.3.1670341929.1526186403; districts=150%3B140%3B143%3B' -H 'origin: https://alonhadat.com.vn' -H 'accept-encoding: gzip, deflate, br' -H 'accept-language: en-US,en;q=0.9,vi;q=0.8,it;q=0.7' -H 'x-requested-with: XMLHttpRequest' -H 'pragma: no-cache' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36' -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' -H 'accept: */*' -H 'cache-control: no-cache' -H 'authority: alonhadat.com.vn' -H 'referer: https://alonhadat.com.vn/tim-kiem-nang-cao.html' -H 'dnt: 1' --data 'province=2&tradetype=1&property=1&property=2&district=150&district=140&district=143&square1=35&square2=55&price1=1000000&price2=1500000&direct=1&direct=2&direct=6&direct=8&page=1' --compressed
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/can-ban-gap-nha-1t1l-hem-1047-tl43-binh-chieu-2993389.html'/>
+        <img src='/files/properties/2018/5/7/thumbnails/20180507_083232_2993389_0.jpg' alt='cần bán gấp nhà 1t1l hẻm 1047 TL43 bình chiểu'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/can-ban-gap-nha-1t1l-hem-1047-tl43-binh-chieu-2993389.html'  >cần bán gấp nhà 1t1l hẻm 1047 TL43 bình chiểu</a>
+        </span>
+        <span class='ct_date'>Hôm nay</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 5x4m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 48 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,35 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận Thủ Đức, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/nha-duong-dinh-phong-phu-tnp-b-quan-9-1-ty-43m2-2925196.html'/>
+        <img src='/files/properties/thumbnails/default.jpg' alt='Nhà đường Đình Phong Phú, TNP B, quận 9 1, tỷ/43m2'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/nha-duong-dinh-phong-phu-tnp-b-quan-9-1-ty-43m2-2925196.html'  >Nhà đường Đình Phong Phú, TNP B, quận 9 1, tỷ/43m2</a>
+        </span>
+        <span class='ct_date'>09/05/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 4x12m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 43 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Đông Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,4 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 9, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/ban-nha-1t-1l-ngay-cho-thu-duc-duong-ho-van-tu-2922023.html'/>
+        <img src='/files/properties/2018/4/12/thumbnails/20180412_120553_2922023_0.jpg' alt='Bán nhà 1T 1L ngay chợ Thủ Đức đường Hồ Văn Tư'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/ban-nha-1t-1l-ngay-cho-thu-duc-duong-ho-van-tu-2922023.html'  >Bán nhà 1T 1L ngay chợ Thủ Đức đường Hồ Văn Tư</a>
+        </span>
+        <span class='ct_date'>11/05/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 3,4x7m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 52 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,1 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận Thủ Đức, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/ban-nhanh-can-nha-duc-1-tam-so-hong-ngay-uy-ban-phuong-thanh-loc-chi-1-ty-50-2843341.html'/>
+        <img src='/files/properties/2018/3/18/thumbnails/20180318_021241_2843341_0.jpg' alt='Bán nhanh căn nhà đúc 1 tấm, sổ hồng ngay ủy ban phường thạnh lộc chỉ 1 tỷ 50'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/ban-nhanh-can-nha-duc-1-tam-so-hong-ngay-uy-ban-phuong-thanh-loc-chi-1-ty-50-2843341.html'  >Bán nhanh căn nhà đúc 1 tấm, sổ hồng ngay ủy ban phường thạnh lộc chỉ 1 tỷ 50</a>
+        </span>
+        <span class='ct_date'>21/03/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 3x12m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 36 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 29 triệu / m
+            <sup>2</sup>
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 12, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/can-tien-ban-gap-nha-tret-1-lau-1-tum-va-san-thuong-2825766.html'/>
+        <img src='/files/properties/2018/3/13/thumbnails/20180313_095530_2825766_0.jpg' alt='cần tiền bán gấp nhà trệt, 1 lầu, 1 tum và sân thượng'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/can-tien-ban-gap-nha-tret-1-lau-1-tum-va-san-thuong-2825766.html'  >cần tiền bán gấp nhà trệt, 1 lầu, 1 tum và sân thượng</a>
+        </span>
+        <span class='ct_date'>13/03/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 4,2x11,8m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 42 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Đông Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,4 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 9, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/can-tien-ban-gap-nha-1tret-1lau-1tum-nha-dep-vao-o-ngay-2824592.html'/>
+        <img src='/files/properties/2018/3/12/thumbnails/20180312_095658_2824592_0.jpg' alt='cần tiền bán gấp nhà 1trệt, 1lầu, 1tum nhà đẹp vào ở ngay'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/can-tien-ban-gap-nha-1tret-1lau-1tum-nha-dep-vao-o-ngay-2824592.html'  >cần tiền bán gấp nhà 1trệt, 1lầu, 1tum nhà đẹp vào ở ngay</a>
+        </span>
+        <span class='ct_date'>13/03/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 4,2x11,8m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 42 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Đông Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,4 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 9, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/ban-nha-duong-9-truong-tho-gia-1-48-ty-40m2-2817015.html'/>
+        <img src='/files/properties/2018/3/9/thumbnails/20180309_052752_2817015_0.jpg' alt='Bán nhà đường 9 trường thọ giá 1.48 tỷ/40m2'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/ban-nha-duong-9-truong-tho-gia-1-48-ty-40m2-2817015.html'  >Bán nhà đường 9 trường thọ giá 1.48 tỷ/40m2</a>
+        </span>
+        <span class='ct_date'>06/04/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 4,8x8,2m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 40 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,48 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận Thủ Đức, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/nha-1-tret-1-lau-duong-vo-van-ngan-p-linh-chieu-quan-thu-duc-52-4m2-gia-1-45-ty-2777317.html'/>
+        <img src='/files/properties/thumbnails/default.jpg' alt='Nhà 1 trệt 1 lầu đường võ văn ngân, P.Linh chiểu, quận thủ đức 52,4m2 giá 1,45 tỷ'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/nha-1-tret-1-lau-duong-vo-van-ngan-p-linh-chieu-quan-thu-duc-52-4m2-gia-1-45-ty-2777317.html'  >Nhà 1 trệt 1 lầu đường võ văn ngân, P.Linh chiểu, quận thủ đức 52,4m2 giá 1,45 tỷ</a>
+        </span>
+        <span class='ct_date'>02/04/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 6x3,6m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 54 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,45 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận Thủ Đức, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/nha-tret-lau-dt-nho-ngay-339-do-xuan-hop-vao-200m-gia-1-25-ty-2764983.html'/>
+        <img src='/files/properties/2018/1/26/thumbnails/20180126_103915_2764983_0.jpg' alt='Nhà trệt lầu DT nhỏ ngay 339 Đỗ Xuân Hợp vào 200m.  Giá 1.25 tỷ'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/nha-tret-lau-dt-nho-ngay-339-do-xuan-hop-vao-200m-gia-1-25-ty-2764983.html'  >Nhà trệt lầu DT nhỏ ngay 339 Đỗ Xuân Hợp vào 200m.  Giá 1.25 tỷ</a>
+        </span>
+        <span class='ct_date'>26/01/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 3,5x6m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 44 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Đông Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,25 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 9, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/nha-1-thanh-loc-28-ha-huy-giap-q12-1-ty-460-ty-2754385.html'/>
+        <img src='/files/properties/2018/1/21/thumbnails/20180121_105359_2754385_0.jpg' alt='nhà 1/ thạnh lộc 28. hà huy giáp.Q12_1 tỷ 460 tỷ'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/nha-1-thanh-loc-28-ha-huy-giap-q12-1-ty-460-ty-2754385.html'  >nhà 1/ thạnh lộc 28. hà huy giáp.Q12_1 tỷ 460 tỷ</a>
+        </span>
+        <span class='ct_date'>05/03/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 3x12m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 36 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,46 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 12, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/sang-nhuong-gap-nha-1-lau-nam-hem-duong-12-tnp-b-1-45-ty-2753896.html'/>
+        <img src='/files/properties/2018/1/20/thumbnails/20180120_083218_2753896_0.jpg' alt='Sang nhượng gấp nhà 1 lầu nằm hẻm đường 12, TNP B 1.45 tỷ'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/sang-nhuong-gap-nha-1-lau-nam-hem-duong-12-tnp-b-1-45-ty-2753896.html'  >Sang nhượng gấp nhà 1 lầu nằm hẻm đường 12, TNP B 1.45 tỷ</a>
+        </span>
+        <span class='ct_date'>19/03/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> ---
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 42 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Đông
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,45 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 9, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/nha-pho-re-nhat-thi-truong-1-tret-1-lau-chi-1-23-ty-can-tron-goi-tel-0902781572-2726249.html'/>
+        <img src='/files/properties/thumbnails/default.jpg' alt='NHÀ PHỐ RẺ NHẤT THỊ TRƯỜNG, 1 TRỆT 1 LẦU, CHỈ 1,23 TỶ/ CĂN (TRỌN GÓI), TEL 0902781572'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/nha-pho-re-nhat-thi-truong-1-tret-1-lau-chi-1-23-ty-can-tron-goi-tel-0902781572-2726249.html'  >NHÀ PHỐ RẺ NHẤT THỊ TRƯỜNG, 1 TRỆT 1 LẦU, CHỈ 1,23 TỶ/ CĂN (TRỌN GÓI), TEL 0902781572</a>
+        </span>
+        <span class='ct_date'>10/03/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> ---
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 54 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Đông Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,23 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận Thủ Đức, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/ban-nha-46m2-3-5x13-2-1-tret-1-lau-duong-vo-van-hat-q9-chi-1-5ty-huong-tay-bac-2709254.html'/>
+        <img src='/files/properties/2018/1/4/thumbnails/20180104_024515_2709254_0.jpg' alt='Bán nhà 46m2(3.5x13.2), 1 trệt, 1 lầu, đường võ văn hát, Q9,chỉ 1.5ty, hướng tây bắc'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/ban-nha-46m2-3-5x13-2-1-tret-1-lau-duong-vo-van-hat-q9-chi-1-5ty-huong-tay-bac-2709254.html'  >Bán nhà 46m2(3.5x13.2), 1 trệt, 1 lầu, đường võ văn hát, Q9,chỉ 1.5ty, hướng tây bắc</a>
+        </span>
+        <span class='ct_date'>06/02/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> 3,5x13,2m
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 46 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,5 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận 9, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
+<div class='content-item'>
+    <span class='thumbnail'>
+        <a href='/ban-nha-1-tret-1-lau-dt-nho-gia-1-250-trieu-full-ko-ho-tro-vay--2703641.html'/>
+        <img src='/files/properties/2018/1/3/thumbnails/20180103_073133_2703641_0.jpg' alt='BÁN NHÀ 1 TRỆT 1 LẦU DT NHỎ: GIÁ 1,250 TRIỆU- FULL, KO HỖ TRỢ VAY,'/>
+    </a>
+</span>
+<span class='text'>
+    <div>
+        <span class='ct_title'>
+            <a href='/ban-nha-1-tret-1-lau-dt-nho-gia-1-250-trieu-full-ko-ho-tro-vay--2703641.html'  >BÁN NHÀ 1 TRỆT 1 LẦU DT NHỎ: GIÁ 1,250 TRIỆU- FULL, KO HỖ TRỢ VAY,</a>
+        </span>
+        <span class='ct_date'>03/01/2018</span>
+    </div>
+    <div>
+        <span class='ct_kt'>
+            <label>Kích thước:</label> ---
+        </span>
+        <span class='ct_dt'>
+            <label>Diện tích:</label> 54 m
+            <sup>2</sup>
+        </span>
+        <span class='ct_direct'>
+            <label>Hướng:</label> Tây Bắc
+        </span>
+    </div>
+    <div>
+        <span class='ct_price'>
+            <label>Giá:</label> 1,25 tỷ
+        </span>
+        <span class='ct_dis'>
+            <label>Quận/Huyện:</label> Quận Thủ Đức, Hồ Chí Minh
+        </span>
+    </div>
+</span>
+<div class='clear'></div>
+</div>
