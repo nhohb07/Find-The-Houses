@@ -1,0 +1,22 @@
+Request URL: https://alonhadat.com.vn/handler/Handler.ashx?command=14
+Request Method: POST
+
+province: 2
+tradetype: 1
+property: 1
+property: 2
+district: 150
+district: 140
+district: 143
+square1: 35
+square2: 55
+price1: 1000000
+price2: 1500000
+direct: 1
+direct: 2
+direct: 6
+direct: 8
+page: 1
+
+
+curl 'https://alonhadat.com.vn/handler/Handler.ashx?command=14' -H 'cookie: ignoredmember=; _ga=GA1.3.301399731.1499149833; ASP.NET_SessionId=qbshcu45ncsxct45oaue3i55; _gid=GA1.3.1670341929.1526186403; districts=150%3B140%3B143%3B' -H 'origin: https://alonhadat.com.vn' -H 'accept-encoding: gzip, deflate, br' -H 'accept-language: en-US,en;q=0.9,vi;q=0.8,it;q=0.7' -H 'x-requested-with: XMLHttpRequest' -H 'pragma: no-cache' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36' -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' -H 'accept: */*' -H 'cache-control: no-cache' -H 'authority: alonhadat.com.vn' -H 'referer: https://alonhadat.com.vn/tim-kiem-nang-cao.html' -H 'dnt: 1' --data 'province=2&tradetype=1&property=1&property=2&district=150&district=140&district=143&square1=35&square2=55&price1=1000000&price2=1500000&direct=1&direct=2&direct=6&direct=8&page=1' --compressed
