@@ -1,5 +1,6 @@
 const _ = require('lodash');
 const moment = require('moment');
+const request = require("request");
 const cheerio = require('cheerio');
 var SHA256 = require("crypto-js/sha256");
 
@@ -12,6 +13,9 @@ class ChoTotController extends Controller {
     this.domain = 'https://chotot.vn';
     this.apiEndPoint = 'https://gateway.chotot.com/v1/public/ad-listing?';
     this.method = 'get';
+
+    this.apiDetailEndPoint = 'https://gateway.chotot.com/v1/public/ad-listing/';
+    this.json = true;
 
     this.requestData = this.formatFilter();
   }
@@ -102,41 +106,64 @@ class ChoTotController extends Controller {
     return filter;
   }
 
+  getDetail(id, callback) {
+    request(
+      {
+        method: this.method,
+        url: this.apiDetailEndPoint + id,
+        json: this.json
+      },
+      (error, response, body) => {
+        if (!error && response.statusCode == 200) {
+          callback(body);
+        }
+      }
+    );
+  }
+
   parseResult() {
-    const title = _.get(this.responseData, 'ads.subject');
-    const image = _.get(this.responseData, 'ads.image', '').replace('\\u0026', '&');
-    const link = '';
-    const dimension = '';
-    const acreage = '';
-    const direction = '';
-    const price = '';
-    const district = '';
+    const list = _.get(this.responseData, 'ads', []);
 
-    let date = '';
-    // if (date === 'Hôm nay') {
-    //   date = new Date();
-    // } else if (date === 'Hôm qua') {
-    //   date = moment().subtract(1, 'day').format('DD/MM/YYYY');
-    // }
-    // date = moment(date, 'DD/MM/YYYY').format('DD/MM/YYYY');
+    _.forEach(list, (item) => {
+      this.getDetail(item.list_id, itemDetail => {
+        console.log('itemDetail', itemDetail);
+      });
+    });
 
-    const dataItem = {
-      domain: this.domain.replace('https://', ''),
-      title,
-      image,
-      link,
-      dimension,
-      acreage,
-      direction,
-      price,
-      district,
-      date,
-      timestamp: moment(date, 'DD/MM/YYYY').unix(),
-    };
+    // const title = _.get(this.responseData, 'ads.subject');
+    // const image = _.get(this.responseData, 'ads.image', '').replace('\\u0026', '&');
+    // const link = '';
+    // const dimension = '';
+    // const acreage = '';
+    // const direction = '';
+    // const price = _.get(this.responseData, 'ads.price_string', '');
+    // const district = [_.get(this.responseData, 'ads.area_name', ''), _.get(this.responseData, 'ads.region_name', '')].join(', ');
 
-    dataItem.id = SHA256(dataItem.link).toString();
+    // let timestamp = _.get(this.responseData, 'ads.list_time', new Date().getTime());
+    // // if (date === 'Hôm nay') {
+    // //   date = new Date();
+    // // } else if (date === 'Hôm qua') {
+    // //   date = moment().subtract(1, 'day').format('DD/MM/YYYY');
+    // // }
+    // // date = moment(date, 'DD/MM/YYYY').format('DD/MM/YYYY');
 
-    this.filterResult.push(dataItem);
+    // const dataItem = {
+    //   domain: this.domain.replace('https://', ''),
+    //   title,
+    //   image,
+    //   link,
+    //   dimension,
+    //   acreage,
+    //   direction,
+    //   price,
+    //   district,
+    //   timestamp,
+    //   date: moment(timestamp, 'DD/MM/YYYY')
+    // };
+
+    // dataItem.id = SHA256(dataItem.link).toString();
+
+    // this.filterResult.push(dataItem);
   }
 }
 

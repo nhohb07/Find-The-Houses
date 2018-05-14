@@ -1,5 +1,4 @@
 const _ = require('lodash');
-const http = require('http');
 const request = require("request");
 const firebaseAdmin = require('../firebase');
 
@@ -49,8 +48,6 @@ class Controller {
           this.responseData = body;
           callback();
         }
-
-        console.log(error, body)
       }
     );
   }

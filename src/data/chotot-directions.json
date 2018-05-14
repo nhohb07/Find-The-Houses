@@ -1,0 +1,42 @@
+[
+  {
+    "name": "đông",
+    "name_url": "dong",
+    "id": 1
+  },
+  {
+    "name": "tây",
+    "name_url": "tay",
+    "id": 2
+  },
+  {
+    "name": "nam",
+    "name_url": "nam",
+    "id": 3
+  },
+  {
+    "name": "bắc",
+    "name_url": "bac",
+    "id": 4
+  },
+  {
+    "name": "đông bắc",
+    "name_url": "dong bac",
+    "id": 5
+  },
+  {
+    "name": "đông nam",
+    "name_url": "dong nam",
+    "id": 6
+  },
+  {
+    "name": "tây bắc",
+    "name_url": "tay bac",
+    "id": 7
+  },
+  {
+    "name": "tây nam",
+    "name_url": "tay nam",
+    "id": 8
+  }
+]

@@ -1,0 +1,124 @@
+{
+    "ad": {
+        "ad_id": 68929618,
+        "list_id": 46392557,
+        "list_time": 1526266126000,
+        "date": "hôm nay 09:48",
+        "account_id": 9769386,
+        "account_oid": "df5e6c08c87888f5fe6e7addf9329575",
+        "account_name": "đoan",
+        "subject": "Biệt thự góc 2 mặt tiền đường 6x16.4m hbc Thủ Đức",
+        "body": "chính chủ cần bán căn biệt thự 98m2 góc 2 mặt tiền đường sân đậu ô tô thoải mái \nđịa chỉ đường 40 hiệp bình chánh thủ đức \ndt 6 m x 16,4m nhà 1 trệt 3 lầu nhà đẹp như hình ,100% ảnh thật\nđầy đủ tiện nghi, \nkhu dân cư sầm uất .vi trí mặt tiền đường rộng rãi thoáng mát an ninh tốt\nsổ hồng riêng \ngiá bán 4ty 500 tr có thỏa thuận vì cần bán gấp \ntrước khi đi xem nhà xin gọi báo trước 15p để tới mở cửa thanks !",
+        "area": 114,
+        "region": 13,
+        "category": 1020,
+        "category_name": "Nhà ở",
+        "company_ad": false,
+        "longitude": 106.733284,
+        "latitude": 10.844458,
+        "phone": "0933273105",
+        "type": "s",
+        "type_name": "Cần bán",
+        "price": 4500000000,
+        "price_string": "4.500.000.000 đ",
+        "reviewer_image": "https://static.chotot.com.vn/thumbs/admin/9999999716.png",
+        "reviewer_nickname": "Giang Minh",
+        "images": [
+            "https://static.chotot.com.vn/1/images/3QDrXECN27wBM8qWtCi1foRAe7bTN5uonSuBUeYYfzCu4LTXZHFkNzKqrR2GsyTY6DPLeYo.7DgqNnCs2UU3Sd1jWRhPKSfuB5uRaQAERRaVx72SHz4f",
+            "https://static.chotot.com.vn/1/images/3QDrXECN27wBM8sSWgUQRVS9sMwLUffcTuPzZFmYdF9A745kSrLXou1HHpeXcGkRZPTu5qH.3FJZrmLKPKrSQX8YwKMZqun6rsipBfEeonbHGZ8W6xs5",
+            "https://static.chotot.com.vn/1/images/3QDrXECN27wBM8sUGgyywBLc7Lyzghbcfux5jXG7V4cGsXp2qBzU4S1jSY7c8mALqLkdo4j.BZHwncxJCZrLutPiXvxWPXhD6oZ9VwoVZpwn4xxuA1pz"
+        ],
+        "address": "Đường 40, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "rooms": 6,
+        "size": 98,
+        "toilets": 4,
+        "owner": false,
+        "avatar": "https://static.chotot.com.vn/imaginary/8ff2e5cf572b0130cde6fe0d638c5a02a59e3cae/profile_avatar/784e1b5ba96089f16c2d01bebd317bac5da9a770/thumbnail?width=32",
+        "landed_type": 2,
+        "property_legal_document": 1
+    },
+    "parameters": [
+        {
+            "id": "size",
+            "value": "98 m²",
+            "label": "Diện tích"
+        },
+        {
+            "id": "address",
+            "value": "Đường 40, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+            "label": "Địa chỉ"
+        },
+        {
+            "id": "rooms",
+            "value": "6 phòng",
+            "label": "Số phòng ngủ"
+        },
+        {
+            "id": "region",
+            "value": "Tp Hồ Chí Minh",
+            "label": "Vùng"
+        },
+        {
+            "id": "toilets",
+            "value": "4 phòng",
+            "label": "Số phòng vệ sinh"
+        },
+        {
+            "id": "landed_type",
+            "value": "Biệt thự",
+            "label": "Loại căn hộ"
+        },
+        {
+            "id": "property_legal_document",
+            "value": "Đã có sổ đỏ/sổ hồng",
+            "label": "Giấy tờ pháp lý"
+        },
+        {
+            "id": "area",
+            "value": "Quận Thủ Đức",
+            "label": "Tỉnh, thành, quận"
+        }
+    ],
+    "ad_params": {
+        "address": {
+            "id": "address",
+            "value": "Đường 40, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+            "label": "Địa chỉ"
+        },
+        "area": {
+            "id": "area",
+            "value": "Quận Thủ Đức",
+            "label": "Tỉnh, thành, quận"
+        },
+        "landed_type": {
+            "id": "landed_type",
+            "value": "Biệt thự",
+            "label": "Loại căn hộ"
+        },
+        "property_legal_document": {
+            "id": "property_legal_document",
+            "value": "Đã có sổ đỏ/sổ hồng",
+            "label": "Giấy tờ pháp lý"
+        },
+        "region": {
+            "id": "region",
+            "value": "Tp Hồ Chí Minh",
+            "label": "Vùng"
+        },
+        "rooms": {
+            "id": "rooms",
+            "value": "6 phòng",
+            "label": "Số phòng ngủ"
+        },
+        "size": {
+            "id": "size",
+            "value": "98 m²",
+            "label": "Diện tích"
+        },
+        "toilets": {
+            "id": "toilets",
+            "value": "4 phòng",
+            "label": "Số phòng vệ sinh"
+        }
+    }
+}

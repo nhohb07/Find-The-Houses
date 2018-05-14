@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Hà Nội",
+    "area": [
+      {
+        "id": "73",
+        "name": "Quận Hoàn Kiếm",
+        "name_url": "quan-hoan-kiem"
+      },
+      {
+        "id": "74",
+        "name": "Quận Ba Đình",
+        "name_url": "quan-ba-dinh"
+      },
+      {
+        "id": "75",
+        "name": "Quận Đống Đa",
+        "name_url": "quan-dong-da"
+      },
+      {
+        "id": "76",
+        "name": "Quận Hai Bà Trưng",
+        "name_url": "quan-hai-ba-trung"
+      },
+      {
+        "id": "77",
+        "name": "Quận Thanh Xuân",
+        "name_url": "quan-thanh-xuan"
+      },
+      {
+        "id": "78",
+        "name": "Quận Tây Hồ",
+        "name_url": "quan-tay-ho"
+      },
+      {
+        "id": "79",
+        "name": "Quận Cầu Giấy",
+        "name_url": "quan-cau-giay"
+      },
+      {
+        "id": "80",
+        "name": "Quận Hoàng Mai",
+        "name_url": "quan-hoang-mai"
+      },
+      {
+        "id": "81",
+        "name": "Quận Long Biên",
+        "name_url": "quan-long-bien"
+      },
+      {
+        "id": "82",
+        "name": "Huyện Đông Anh",
+        "name_url": "huyen-dong-anh"
+      },
+      {
+        "id": "83",
+        "name": "Huyện Sóc Sơn",
+        "name_url": "huyen-soc-son"
+      },
+      {
+        "id": "84",
+        "name": "Huyện Thanh Trì",
+        "name_url": "huyen-thanh-tri"
+      },
+      {
+        "id": "86",
+        "name": "Quận Hà Đông",
+        "name_url": "quan-ha-dong"
+      },
+      {
+        "id": "87",
+        "name": "Thị Xã Sơn Tây",
+        "name_url": "thi-xa-son-tay"
+      },
+      {
+        "id": "88",
+        "name": "Huyện Đan Phượng",
+        "name_url": "huyen-dan-phuong"
+      },
+      {
+        "id": "89",
+        "name": "Huyện Hoài Đức",
+        "name_url": "huyen-hoai-duc"
+      },
+      {
+        "id": "90",
+        "name": "Huyện Quốc Oai",
+        "name_url": "huyen-quoc-oai"
+      },
+      {
+        "id": "91",
+        "name": "Huyện Thạch Thất",
+        "name_url": "huyen-thach-that"
+      },
+      {
+        "id": "92",
+        "name": "Huyện Chương Mỹ",
+        "name_url": "huyen-chuong-my"
+      },
+      {
+        "id": "93",
+        "name": "Huyện Thường Tín",
+        "name_url": "huyen-thuong-tin"
+      },
+      {
+        "id": "94",
+        "name": "Huyện Phú Xuyên",
+        "name_url": "huyen-phu-xuyen"
+      },
+      {
+        "id": "95",
+        "name": "Quận huyện khác",
+        "name_url": "quan-huyen-khac"
+      },
+      {
+        "id": "121",
+        "name": "Quận Nam Từ Liêm",
+        "name_url": "quan-nam-tu-liem"
+      },
+      {
+        "id": "122",
+        "name": "Huyện Ba Vì",
+        "name_url": "huyen-ba-vi"
+      },
+      {
+        "id": "123",
+        "name": "Huyện Gia Lâm",
+        "name_url": "huyen-gia-lam"
+      },
+      {
+        "id": "124",
+        "name": "Huyện Mê Linh",
+        "name_url": "huyen-me-linh"
+      },
+      {
+        "id": "125",
+        "name": "Huyện Mỹ Đức",
+        "name_url": "huyen-my-duc"
+      },
+      {
+        "id": "126",
+        "name": "Huyện Phúc Thọ",
+        "name_url": "huyen-phuc-tho"
+      },
+      {
+        "id": "127",
+        "name": "Huyện Thanh Oai",
+        "name_url": "huyen-thanh-oai"
+      },
+      {
+        "id": "128",
+        "name": "Huyện Ứng Hòa",
+        "name_url": "huyen-ung-hoa"
+      },
+      {
+        "id": "129",
+        "name": "Quận Bắc Từ Liêm",
+        "name_url": "quan-bac-tu-liem"
+      }
+    ],
+    "name_url": "ha-noi",
+    "id": "12"
+  },
+  {
+    "name": "Tp Hồ Chí Minh",
+    "area": [
+      {
+        "id": "96",
+        "name": "Quận 1",
+        "name_url": "quan-1"
+      },
+      {
+        "id": "97",
+        "name": "Quận 2",
+        "name_url": "quan-2"
+      },
+      {
+        "id": "98",
+        "name": "Quận 3",
+        "name_url": "quan-3"
+      },
+      {
+        "id": "99",
+        "name": "Quận 4",
+        "name_url": "quan-4"
+      },
+      {
+        "id": "100",
+        "name": "Quận 5",
+        "name_url": "quan-5"
+      },
+      {
+        "id": "101",
+        "name": "Quận 6",
+        "name_url": "quan-6"
+      },
+      {
+        "id": "102",
+        "name": "Quận 7",
+        "name_url": "quan-7"
+      },
+      {
+        "id": "103",
+        "name": "Quận 8",
+        "name_url": "quan-8"
+      },
+      {
+        "id": "104",
+        "name": "Quận 9",
+        "name_url": "quan-9"
+      },
+      {
+        "id": "105",
+        "name": "Quận 10",
+        "name_url": "quan-10"
+      },
+      {
+        "id": "106",
+        "name": "Quận 11",
+        "name_url": "quan-11"
+      },
+      {
+        "id": "107",
+        "name": "Quận 12",
+        "name_url": "quan-12"
+      },
+      {
+        "id": "108",
+        "name": "Quận Bình Tân",
+        "name_url": "quan-binh-tan"
+      },
+      {
+        "id": "109",
+        "name": "Quận Bình Thạnh",
+        "name_url": "quan-binh-thanh"
+      },
+      {
+        "id": "110",
+        "name": "Quận Gò Vấp",
+        "name_url": "quan-go-vap"
+      },
+      {
+        "id": "111",
+        "name": "Quận Phú Nhuận",
+        "name_url": "quan-phu-nhuan"
+      },
+      {
+        "id": "112",
+        "name": "Quận Tân Bình",
+        "name_url": "quan-tan-binh"
+      },
+      {
+        "id": "113",
+        "name": "Quận Tân Phú",
+        "name_url": "quan-tan-phu"
+      },
+      {
+        "id": "114",
+        "name": "Quận Thủ Đức",
+        "name_url": "quan-thu-duc"
+      },
+      {
+        "id": "115",
+        "name": "Huyện Bình Chánh",
+        "name_url": "huyen-binh-chanh"
+      },
+      {
+        "id": "116",
+        "name": "Huyện Củ Chi",
+        "name_url": "huyen-cu-chi"
+      },
+      {
+        "id": "117",
+        "name": "Huyện Hóc Môn",
+        "name_url": "huyen-hoc-mon"
+      },
+      {
+        "id": "118",
+        "name": "Huyện Nhà Bè",
+        "name_url": "huyen-nha-be"
+      },
+      {
+        "id": "119",
+        "name": "Quận huyện khác",
+        "name_url": "quan-huyen-khac"
+      },
+      {
+        "id": "120",
+        "name": "Huyện Cần Giờ",
+        "name_url": "huyen-can-gio"
+      }
+    ],
+    "name_url": "tp-ho-chi-minh",
+    "id": "13"
+  }
+]

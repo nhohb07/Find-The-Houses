@@ -14,7 +14,7 @@ const start = (filter) => {
     controller = new controller(filter);
 
     controller.getList(() => {
-      // controller.parseResult();
+      controller.parseResult();
       // controller.insertToDB();
     });
   })
